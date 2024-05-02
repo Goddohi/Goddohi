@@ -3,7 +3,7 @@ Nickname : Dohi
 Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우며 IT의 지식을 계속 써내려가자)
 
 
-
+<div ><p style="text-align: center;">Tech Stack </p></div>
 <div>
 <img src="https://img.shields.io/badge/springboot-E4405F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
@@ -19,10 +19,14 @@ Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우�
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white/">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white/">
 </div>
+<div ><p style="text-align: center;">IDE/Tool </p></div>
 
 
-- 지나온길
 
+<div>
+
+  
+<h1>- 지나온길</h1>
 <h2>전문대학교 졸업 (2018.3~2020.2)</h2>
 <h3>Major: Department of Electronics (4.46/4.5)</h3>
 <ul style="list-style-type: circle;" data-ke-list-type="circle">
@@ -41,7 +45,7 @@ Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우�
 <li>한국출판문산업진흥원 협약프로젝트 진행 및 전자책 제작(22.5~23.2))</li>
 </ul>
 
-<div>
+<div class="Eulji_Info">
 <h2>Eulji University(23.3~ ing)</h2>
 <h3>Major: Medical IT(  /4.5)</h3>
 <ul style="list-style-type: disc;" data-ke-list-type="disc">
@@ -63,9 +67,10 @@ Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우�
       <li>배운 전공및 기술: Java, Java Spring, DBMS(Mysql), JPA, Python, C++, Unity(2D), Html, Css, ML(AI), Data Analysis, Data Mining, SoftwareEngineering(소프트웨어공학), OS(운영체제), Linux , CloudService(AWS, NCP)</li>
       <li>장학: 편입생최우수성적장학 ,수석1회(3학년1학기), 차석1회(3학년2학기),</li>
       <li>데이터청년캠퍼스_을지대학교 AI기반의료_우수상</li>
-  
-    </li>
   </ul>
-  
 </ul>
 </div>
+
+
+</div>
+
