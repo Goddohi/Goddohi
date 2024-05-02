@@ -1,10 +1,7 @@
-Nickname : Dohi
-
-Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우며 IT의 지식을 계속 써내려가자)
-
+#업데이트중..
 <div align="center">
 <h2 style="text-align: center;">Tech Stack </h2>
-
+<div>
 <img src="https://img.shields.io/badge/springboot-E4405F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white/">
@@ -19,13 +16,12 @@ Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우�
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white/">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white/">
 </div>
-<p style="text-align: center;">IDE/Tool </p>
+<h2 style="text-align: center;">IDE/Tool </h2>
 
 </div>
 
 <div>
 
-  
 <h1>- 지나온길</h1>
 <h2>전문대학교 졸업 (2018.3~2020.2)</h2>
 <h3>Major: Department of Electronics (4.46/4.5)</h3>
@@ -52,14 +48,14 @@ Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우�
   <ul style="list-style-type: disc;" data-ke-list-type="disc">
     <li>2023_Junior (4.43/4.5)
       <ul style="list-style-type: circle;" data-ke-list-type="circle">
-        <li>멋쟁이사자처럼 BE </li>
+        <li>멋쟁이사자처럼 BackEnd </li>
         <li>졸업논문(국문:뇌졸중 예측 알고리즘), 졸업 작품 제작(cctv기반 AI 인구 밀집 신호등)</li>
         <li>데이터청년캠퍼스(<span style="color: #242424; text-align: left;">인공지능(AI) 기반 의료<span>&nbsp;</span></span><span style="list-style-type: none; color: #242424; text-align: left;"><a style="list-style-type: none; color: #222222;">빅데이터</a></span><span style="color: #242424; text-align: left;"><span>&nbsp;</span>분석 과정)수료</span></li>
       </ul>
     </li>
       <li>2024_Senior
         <ul style="list-style-type: circle;" data-ke-list-type="circle">
-          <li>멋쟁이사자(백엔드 운영진)</li>
+          <li>멋쟁이사자처럼 club BackEnd officers</li>
           <li>UH.West O'ahu Winter 2024 short term Program</li>
           <li>논문 지필 (Selecting Optimal Algorithms for Stroke Prediction: Machine Learning-Based Approach)</li>
         </ul>
