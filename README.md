@@ -1,4 +1,4 @@
-#업데이트중..
+#업데이트중.. 5월말까지 완성예정..
 <div align="center">
 <h2 style="text-align: center;">Tech Stack </h2>
 <div>
