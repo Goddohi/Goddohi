@@ -41,47 +41,31 @@ Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우�
 <li>한국출판문산업진흥원 협약프로젝트 진행 및 전자책 제작(22.5~23.2))</li>
 </ul>
 
-<h2>Eulji University(23.3~ ing)</h2>
-<h3>Major: Medical IT(  /4.5)</h3>
-  2023_Junior (4.43/4.5)
-  멋쟁이사자처럼 BE 
-  데이터청년캠퍼스(인공지능(AI) 기반 의료 빅데이터 분석 과정)수료
-  졸업논문(국문:뇌졸중 예측 알고리즘), 졸업 작품 제작(cctv기반 AI 인구 밀집 신호등)
-
-  2024_Senior
-  멋쟁이사자(백엔드 운영진)
-UH.West O'ahu Winter 2024 short term Program
-논문 지필 (Selecting Optimal Algorithms for Stroke Prediction: Machine Learning-Based Approach)
- 
-배운 전공및 기술: Java, Java Spring, DBMS(Mysql), JPA, Python, C++, Unity(2D), Html, Css, ML(AI), Data Analysis, Data Mining, SoftwareEngineering(소프트웨어공학), OS(운영체제), Linux , CloudService(AWS, NCP)
-장학: 편입생최우수성적장학 ,수석1회(3학년1학기), 차석1회(3학년2학기),
-데이터청년캠퍼스_을지대학교 AI기반의료_우수상
 <div>
 <h2>Eulji University(23.3~ ing)</h2>
+<h3>Major: Medical IT(  /4.5)</h3>
 <ul style="list-style-type: disc;" data-ke-list-type="disc">
-<li>의료IT학과 재학(&nbsp; /4.5)&nbsp;
-<ul style="list-style-type: disc;" data-ke-list-type="disc">
-<li>2023 (3학년) (4.43/4.5)
-<ul style="list-style-type: circle;" data-ke-list-type="circle">
-<li>멋쟁이사자처럼 BE </li>
-<li>졸업논문(국문:뇌졸중 예측 알고리즘), 졸업 작품 제작(cctv기반 AI 인구 밀집 신호등)</li>
-<li>데이터청년캠퍼스(<span style="color: #242424; text-align: left;">인공지능(AI) 기반 의료<span>&nbsp;</span></span><span style="list-style-type: none; color: #242424; text-align: left;"><a style="list-style-type: none; color: #222222;">빅데이터</a></span><span style="color: #242424; text-align: left;"><span>&nbsp;</span>분석 과정)수료</span></li>
-</ul>
-</li>
-<li>2024 (4학년)
-<ul style="list-style-type: circle;" data-ke-list-type="circle">
-<li>멋쟁이사자(백엔드 운영진)</li>
-<li>UH.West O'ahu Winter 2024 short term Program</li>
-<li>논문 지필 (Selecting Optimal Algorithms for Stroke Prediction: Machine Learning-Based Approach)</li>
-<li>&nbsp;</li>
-</ul>
-</li>
-<li>배운 전공및 기술: Java, Java Spring, DBMS(Mysql), JPA, Python, C++, Unity(2D), Html, Css, ML(AI), Data Analysis, Data Mining, SoftwareEngineering(소프트웨어공학), OS(운영체제), Linux , CloudService(AWS, NCP)</li>
-<li>장학: 편입생최우수성적장학 ,수석1회(3학년1학기), 차석1회(3학년2학기),</li>
-<li>데이터청년캠퍼스_을지대학교 AI기반의료_우수상</li>
-</ul>
-</li>
-</ul>
-</li>
+  <ul style="list-style-type: disc;" data-ke-list-type="disc">
+    <li>2023_Junior (4.43/4.5)
+      <ul style="list-style-type: circle;" data-ke-list-type="circle">
+        <li>멋쟁이사자처럼 BE </li>
+        <li>졸업논문(국문:뇌졸중 예측 알고리즘), 졸업 작품 제작(cctv기반 AI 인구 밀집 신호등)</li>
+        <li>데이터청년캠퍼스(<span style="color: #242424; text-align: left;">인공지능(AI) 기반 의료<span>&nbsp;</span></span><span style="list-style-type: none; color: #242424; text-align: left;"><a style="list-style-type: none; color: #222222;">빅데이터</a></span><span style="color: #242424; text-align: left;"><span>&nbsp;</span>분석 과정)수료</span></li>
+      </ul>
+    </li>
+      <li>2024_Senior
+        <ul style="list-style-type: circle;" data-ke-list-type="circle">
+          <li>멋쟁이사자(백엔드 운영진)</li>
+          <li>UH.West O'ahu Winter 2024 short term Program</li>
+          <li>논문 지필 (Selecting Optimal Algorithms for Stroke Prediction: Machine Learning-Based Approach)</li>
+        </ul>
+      </li>
+      <li>배운 전공및 기술: Java, Java Spring, DBMS(Mysql), JPA, Python, C++, Unity(2D), Html, Css, ML(AI), Data Analysis, Data Mining, SoftwareEngineering(소프트웨어공학), OS(운영체제), Linux , CloudService(AWS, NCP)</li>
+      <li>장학: 편입생최우수성적장학 ,수석1회(3학년1학기), 차석1회(3학년2학기),</li>
+      <li>데이터청년캠퍼스_을지대학교 AI기반의료_우수상</li>
+  
+    </li>
+  </ul>
+  
 </ul>
 </div>
