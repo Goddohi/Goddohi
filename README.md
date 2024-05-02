@@ -2,9 +2,9 @@ Nickname : Dohi
 
 Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우며 IT의 지식을 계속 써내려가자)
 
+<div align="center">
+<h2 style="text-align: center;">Tech Stack </h2>
 
-<div ><p style="text-align: center;">Tech Stack </p></div>
-<div>
 <img src="https://img.shields.io/badge/springboot-E4405F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white/">
@@ -19,9 +19,9 @@ Dohi의 의미 : Development and Operation HIstory ( 개발과 운영을 배우�
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white/">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white/">
 </div>
-<div ><p style="text-align: center;">IDE/Tool </p></div>
+<p style="text-align: center;">IDE/Tool </p>
 
-
+</div>
 
 <div>
 
