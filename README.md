@@ -43,7 +43,7 @@
   </ul>
   <h2>DohiStudio 창업 /전자책 전문 제작 (2021.9~22.5)</h2>
   <ul style="list-style-type: circle;" data-ke-list-type="circle">
-    <li>전자책 제작 / 컨설팅 (창업기간 제작 권수 120+)</li>
+    <li>전자책,APK 제작 / 컨설팅 (창업기간 제작 권수 120+)</li>
     <li>한국출판문산업진흥원 협약프로젝트 컨설팅 (2021.9~21.11))</li>
   </ul>
 
@@ -54,7 +54,7 @@
 
   <div class="Eulji_Info">
     <h2>Eulji University(23.3~ ing)</h2>
-    <h3>Major: Medical IT(  /4.5)</h3>
+    <h3>Major: Medical IT( /4.5)</h3>
     <ul style="list-style-type: disc;" data-ke-list-type="disc">
       <ul style="list-style-type: disc;" data-ke-list-type="disc">
         <li>2023_Junior (4.43/4.5)
