@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to Choi Kyungtae's github%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Choi%20Kyungtae's%20github&fontSize=90" />
   <h1>Hello.<br/>
   Welcome to Choi Kyungtae's github. </h1>
   <div>
@@ -30,6 +30,10 @@
    <h2 style="text-align: center;"> Blog & SNS </h2>
   <a href="https://dohi-blog.tistory.com/68"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/"></a>  
   <a href="https://www.instagram.com/rudxofj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/"></a>
+   <a href="mailto:kmam147@gmail.com">
+    <img
+      src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
 
 
