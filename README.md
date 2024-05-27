@@ -2,12 +2,11 @@
 <div align="center">
 
   <div>
-    <h2 style="text-align: center;">Tech Stack </h2>
+    <h2 style="text-align: center;">Tech Stack(Framework&Language </h2>
     <img src="https://img.shields.io/badge/springboot-E4405F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/">
   </div>
 
   <div>
@@ -26,7 +25,9 @@
     <h2 style="text-align: center;">Server </h2>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
   </div>
-  <a href="https://dohi-blog.tistory.com/68"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/"></a>
+   <h2 style="text-align: center;"> Blog & SNS </h2>
+  <a href="https://dohi-blog.tistory.com/68"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/"></a>  
+  <a href="https://www.instagram.com/rudxofj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/"></a>
 </div>
 
     
@@ -35,7 +36,7 @@
 
 <div>
 
-  <h1>- 지나온길</h1>
+  <h1>지나온길</h1>
   <h2>전문대학교 졸업 (2018.3~2020.2)</h2>
   <h3>Major: Department of Electronics (4.46/4.5)</h3>
   <ul style="list-style-type: circle;" data-ke-list-type="circle">
@@ -48,7 +49,6 @@
     <li>전자책,APK 제작 / 컨설팅 (창업기간 제작 권수 120+)</li>
     <li>한국출판문산업진흥원 협약프로젝트 컨설팅 (2021.9~21.11))</li>
   </ul>
-
   <h2>선비북스(ULAB) 합류 (22.5~23.2)</h2>
   <ul style="list-style-type: circle;" data-ke-list-type="circle">
     <li>한국출판문산업진흥원 협약프로젝트 진행 및 전자책 제작(22.5~23.2))</li>
