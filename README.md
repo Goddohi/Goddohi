@@ -35,10 +35,10 @@
   </div>
 
    <div>
-     <h2 style="text-align: center;">📫 Contact 📫</h2>
-     <a href="https://dohi-blog.tistory.com/68"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/"></a>  
-     <a href="https://www.instagram.com/rudxofj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/"></a>
-      <a href="mailto:kmam147@gmail.com"><imgsrc="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      <h2 style="text-align: center;">📫 Contact 📫</h2>
+      <a href="https://dohi-blog.tistory.com/68"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/"></a>  
+      <a href="https://www.instagram.com/rudxofj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/"></a>
+      <a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    </div>
 </div>
 
