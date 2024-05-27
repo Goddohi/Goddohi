@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Choi%20Kyungtae's%20github&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90" />
   <h1>Hello.<br/>
   Welcome to Choi Kyungtae's github. </h1>
   <div>
