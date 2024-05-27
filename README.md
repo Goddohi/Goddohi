@@ -26,8 +26,10 @@
     <h2 style="text-align: center;">Server </h2>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
   </div>
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/">
 </div>
 
+    
 
 
 
