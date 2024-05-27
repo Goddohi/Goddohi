@@ -3,7 +3,7 @@
 
   <div>
     <h2 style="text-align: center;">Tech Stack(Framework&Language </h2>
-    <img src="https://img.shields.io/badge/Springboot-6DB33Fstyle=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/">
