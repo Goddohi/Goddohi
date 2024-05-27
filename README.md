@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Welcome&fontSize=50" />
   <h1>Welcome to Choi Kyungtae's github. </h1>
   <div>
     <h2 style="text-align: center;">Tech Stack(Framework&Language) </h2>
