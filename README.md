@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome&fontSize=50" />
-  <h1>Welcome to Choi Kyungtae's github. </h1>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20Choi-nl-%20Kyungtae's%20github.&fontSize=50" />
+  <h1> </h1>
   <div>
     <h2 style="text-align: center;">Tech Stack</h2>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/">
