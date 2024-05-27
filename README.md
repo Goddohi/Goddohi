@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome&fontSize=50" />
   <h1>Welcome to Choi Kyungtae's github. </h1>
   <div>
-    <h2 style="text-align: center;">Tech Stack(Framework&Language) </h2>
+    <h2 style="text-align: center;">Tech Stack</h2>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/">
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/">
@@ -11,7 +11,7 @@
   </div>
 
   <div>
-    <h2 style="text-align: center;">IDE/Tool </h2>
+    <h2 style="text-align: center;">🛠IDE/Tool🛠</h2>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white/">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white/">
   </div>
@@ -26,7 +26,12 @@
     <h2 style="text-align: center;">Server </h2>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
   </div>
-   <h2 style="text-align: center;"> Blog & SNS </h2>
+    <div>
+    <h2 style="text-align: center;">Studing </h2>
+    <img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=naver&logoColor=black/">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=black/">
+  </div>
+   <h2 style="text-align: center;">📫 Contact 📫</h2>
   <a href="https://dohi-blog.tistory.com/68"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/"></a>  
   <a href="https://www.instagram.com/rudxofj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/"></a>
    <a href="mailto:kmam147@gmail.com">
