@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20Choi-nl-%20Kyungtae's%20github.&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome%20to-nl-Choi%20Kyungtae's%20github.&fontSize=50" />
   <h1> </h1>
   <div>
     <h2 style="text-align: center;">Tech Stack</h2>
