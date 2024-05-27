@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90" />
-  <h1>Hello.<br/>
-  Welcome to Choi Kyungtae's github. </h1>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome&fontSize=70" />
+  <h1>Welcome to Choi Kyungtae's github. </h1>
   <div>
     <h2 style="text-align: center;">Tech Stack(Framework&Language) </h2>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/">
