@@ -46,7 +46,7 @@
         <h4 align="left"> 📖 멋쟁이사자처럼(을지대) 11기 12기 BE파트 - LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing)) </h4>
         <h4 align="left"> 📖 2023년 데이터 청년 캠퍼스- KDATA "Data youth campus" (2023.07~2023.08) </h4>
         <h4 align="left"> 💻 선비북스 합류 - Join Seonbi Books (ULAB) (22.5~23.2) </h4>
-        <h4 align="left"> 💻 한국출판문화산업진흥원 협약 프로젝트 진행 - KPIPA Project Consulting and Production (2021.9~21.2021.11) </h4>
+        <h4 align="left"> 💻 한국출판문화산업진흥원 협약 프로젝트 진행 - KPIPA Project Consulting and Production (2021.9~2021.11) </h4>
         <h4 align="left"> 💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (2021.9~2022.5)  </h4>
         <h4 align="left"> 🎓 전문대학 졸업 -Graduated from a junior college - Major : Electronics (2018.3~2020.02) </h4>
    </div>
