@@ -11,25 +11,22 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/">
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white/">
 
-  <div>
-      <h2 style="text-align: center;">🛠IDE/Tool🛠</h2>
+## 🛠IDE/Tool🛠
+---
       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white/">
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white/">
-  </div>
-  
-  <div>
-      <h2 style="text-align: center;">DBMS </h2>
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/">
-      <img src="https://img.shields.io/badge/H2-00000F?style=for-the-badge&logo=h2l&logoColor=white/">
-  </div>
-  
-  <div>
-      <h2 style="text-align: center;">Server </h2>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
-  </div>
-    
-  <div>
-      <h2 style="text-align: center;">Studing </h2>
+
+## DBMS
+---
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/">
+<img src="https://img.shields.io/badge/H2-00000F?style=for-the-badge&logo=h2l&logoColor=white/">
+
+## Server
+---
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/">
+
+## Studing
+---
       <img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=naver&logoColor=black/">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=black/">
   </div>
