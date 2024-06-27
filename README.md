@@ -3,7 +3,7 @@
 </div>
 
 
-##Tech Stack
+## Tech Stack
 ---
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/">
  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
