@@ -43,8 +43,8 @@
 </div>
 🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (2023.3 ~ 2025.02(~ing))
 
-
-📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 운영진 - LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing))
+📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 운영진 
+    LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing))
 
 
 📖 2023년 데이터 청년 캠퍼스- KDATA "Data youth campus" (2023.07~2023.08)
