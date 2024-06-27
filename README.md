@@ -39,15 +39,16 @@
 <a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
    <div>
-       <h2 align="center">✨ Profile </h2>
-        <h4 align="left"> 🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (2023.3 ~ 2025.02(~ing)) </h4>
-        <h4 align="left"> 📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 운영진 - LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing)) </h4>
-        <h4 align="left"> 📖 2023년 데이터 청년 캠퍼스- KDATA "Data youth campus" (2023.07~2023.08) </h4>
-        <h4 align="left"> 💻 선비북스 합류 - Join Seonbi Books (ULAB) (22.5~23.2) </h4>
-        <h4 align="left"> 💻 한국출판문화산업진흥원 협약 프로젝트 진행 - KPIPA Project Consulting and Production (2021.9~2021.11) </h4>
-        <h4 align="left"> 💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (2021.9~2022.5)  </h4>
-        <h4 align="left"> 🎓 전문대학 졸업 -Graduated from a junior college - Major : Electronics (2018.3~2020.02) </h4>
-   </div>
+       <h2 align="center">✨ Profile </h2>         
+</div>
+🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (2023.3 ~ 2025.02(~ing))
+📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 운영진 - LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing))
+📖 2023년 데이터 청년 캠퍼스- KDATA "Data youth campus" (2023.07~2023.08)
+💻 선비북스 합류 - Join Seonbi Books (ULAB) (22.5~23.2)
+💻 한국출판문화산업진흥원 협약 프로젝트 진행 - KPIPA Project Consulting and Production (2021.9~2021.11)
+💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (2021.9~2022.5)
+🎓 전문대학 졸업 -Graduated from a junior college - Major : Electronics (2018.3~2020.02)
+ 
 
 
 
