@@ -1,15 +1,15 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Welcome%20to-nl-Choi%20Kyungtae's%20github.&fontSize=50" />
-    <p><br/></p>
-  
-  <div>
-      <h2 style="text-align: center;">Tech Stack</h2>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/">
-      <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/">
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white/">
-  </div>
+</div>
+
+
+##Tech Stack
+---
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/">
+ <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/">
+ <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white/">
 
   <div>
       <h2 style="text-align: center;">🛠IDE/Tool🛠</h2>
@@ -50,6 +50,6 @@
         <h4 align="left"> 💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (2021.9~2022.5)  </h4>
         <h4 align="left"> 🎓 전문대학 졸업 -Graduated from a junior college - Major : Electronics (2018.3~2020.02) </h4>
    </div>
-</div>
+
 
 
