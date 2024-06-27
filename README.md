@@ -39,7 +39,7 @@
 <a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## ✨ Profile
-####🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (2023.3 ~ 2025.02(~ing))
+#### 🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (2023.3 ~ 2025.02(~ing))
 
 📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 운영진 
     LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing))
