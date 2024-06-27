@@ -28,16 +28,17 @@
 
 ## Studing
 ---
-      <img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=naver&logoColor=black/">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=black/">
-  </div>
+<img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge&logo=naver&logoColor=black/">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=black/">
 
-   <div>
-      <h2 style="text-align: center;">📫 Contact</h2>
-      <a href="https://dohi-blog.tistory.com/68"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/"></a>  
-      <a href="https://www.instagram.com/rudxofj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/"></a>
-      <a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   </div>
+
+## 📫 Contact
+---
+      
+<a href="https://dohi-blog.tistory.com/68"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white/"></a>  
+<a href="https://www.instagram.com/rudxofj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/"></a>
+<a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
    <div>
        <h2 align="center">✨ Profile </h2>
         <h4 align="left"> 🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (2023.3 ~ 2025.02(~ing)) </h4>
