@@ -43,11 +43,11 @@
     * **LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing))**
 * **📖 2023년 데이터 청년 캠퍼스- KDATA "Data youth campus" (2023.07~2023.08)**
 * **💻 선비북스 합류 - Join Seonbi Books (ULAB) (22.5~23.2)**
-    * **Eub(HTML,CSS,JS), Apk(java), Web홍보홈페이지개발 및 유지보수(Springboot2)    
+    * **Eub(HTML,CSS,JS), Apk(java), Web홍보홈페이지개발 및 유지보수(Springboot2)** 
 * **💻 한국출판문화산업진흥원 협약 프로젝트 진행 (제작및 컨설팅) - KPIPA Project Consulting and Production (2021.9~2021.11)**
-    * **Apk(Java)
+    * **Apk(Java)**
 * **💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (2021.9~2022.5)**
-    * EUB(HTML,CSS,JS)
+    * EUB(HTML,CSS,JS)**
 * **🎓 전문대학 졸업 -Graduated from a junior college - Major : Electronics (2018.3~2020.02)**
 
 
