@@ -47,7 +47,7 @@
 * **💻 한국출판문화산업진흥원 협약 프로젝트 진행 (제작및 컨설팅) - KPIPA Project Consulting and Production (2021.9~2021.11)**
     * **Apk(Java)**
 * **💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (2021.9~2022.5)**
-    * EUB(HTML,CSS,JS)**
+    * **EUB(HTML,CSS,JS)**
 * **🎓 전문대학 졸업 -Graduated from a junior college - Major : Electronics (2018.3~2020.02)**
 
 
