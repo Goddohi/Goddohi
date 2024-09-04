@@ -39,12 +39,16 @@
 
 ## ✨ Profile
 * **💻 이지케어텍 SW개발자 인턴 - Software Developer Intern at EZCareTech (2024.06~ 2024.09(~ing))**
-    * **Primary Responsibilities**
-        * Web-based EMR Maintenance and Development (June 2024 – Sep 2024) - (Present)
-        * Technologies Used: C# (.NET), Java, Oracle(PL/SQL), JavaScript, HTML, CSS , WAS(IIS,Tomcat)
-    * **Secondary Responsibilities**
-        * Windows Application Software Development (Sep 2024 - )
-        * Technologies Used: C# (.NET),  WPF, Oracle(PL/SQL)
+    * **First Department(Web Solution Maintenance and Development) (June 2024 – Sep 2024) - (Present)**
+        *  **Primary Responsibilities**
+            * Web-based EMR Maintenance and Development 
+            * Technologies Used: C#(.NET), Java, Oracle(PL/SQL), JavaScript, HTML, CSS, WAS(IIS,Tomcat)
+        * **Secondary Responsibilities**
+            * Windows Application Software Development 
+            * Technologies Used: C#(.NET), WPF, Oracle(PL/SQL)
+   <!-- * **Secound Department()**   
+        * **Second Primary Responsibilities**
+            * Windows-Based EMR Development -->
 * **🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (2023.3 ~ 2025.02(~ing))**
 * **📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 교육 운영진**
     * **LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing))**
