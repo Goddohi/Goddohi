@@ -39,7 +39,8 @@
   <a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## ✨ Profile
-* **💻 이지케어텍 SW개발자 인턴 - Software Developer Intern at EZCareTech (2024.06~ 2024.09(~ing))**
+* **💻 이지케어텍 SW개발자  - Software Developer at EZCareTech (2024.06~ing)**
+    * 인턴이후 정규직 제안되어 정규직 채용 (I transitioned from an intern to a full-time employee.)     
     * **First Department(Web Solution Maintenance and Development) (June 2024 – Sep 2024) - (Present)**
         *  **Primary Responsibilities**
             * Web-based EMR Maintenance and Development 
