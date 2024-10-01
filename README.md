@@ -65,5 +65,7 @@
     * **Completed over 100 tasks**
 * **🎓 전문대학 졸업 -Graduated from a junior college - Major : Electronics (2018.3~2020.02)**
 
+  
+
 
 
