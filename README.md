@@ -44,7 +44,7 @@
     * **First Department(Web Solution Maintenance and Development) (June 2024 – Sep 2024) - (Present)**
         *  **Primary Responsibilities**
             * Web-based EMR Maintenance and Development 
-            * Technologies Used: C#(.NET), Java, Oracle(PL/SQL), JavaScript, HTML, CSS, WAS(IIS,Tomcat)
+            * Technologies Used: C#(.NET), Java, Oracle(PL/SQL), JavaScript, HTML, CSS
         * **Secondary Responsibilities**
             * Windows Application Software Development 
             * Technologies Used: C#(.NET), WPF, Oracle(PL/SQL)
