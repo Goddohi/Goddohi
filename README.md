@@ -43,11 +43,11 @@
     * 인턴이후 정규직 제안되어 정규직 채용 (I transitioned from an intern to a full-time employee.)     
     * **First Department(Web Solution Maintenance and Development) (June 2024 – Sep 2024) - (Present)**
         *  **Primary Responsibilities**
-            * Web-based EMR Maintenance and Development 
-            * Technologies Used: C#(.NET), Java, Oracle(PL/SQL), JavaScript, HTML, CSS
-        * **Secondary Responsibilities**
             * Windows Application Software Development 
             * Technologies Used: C#(.NET), WPF, Oracle(PL/SQL)
+        * **Secondary Responsibilities**
+            * Web-based EMR Maintenance and Development 
+            * Technologies Used: C#(.NET), Java, Oracle(PL/SQL), JavaScript, HTML, CSS
    <!-- * **Secound Department()**   
         * **Second Primary Responsibilities**
             * Windows-Based EMR Development -->
