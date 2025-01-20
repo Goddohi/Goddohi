@@ -39,32 +39,31 @@
   <a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## ✨ Profile
-* **💻 이지케어텍 SW개발자  - Software Developer at EZCareTech (2024.06~ing)**
-    * 인턴이후 정규직 제안되어 정규직 채용 (I transitioned from an intern to a full-time employee.)     
-    * **First Department(Web Solution Maintenance and Development) (June 2024 – Sep 2024) - (Present)**
-        *  **Primary Responsibilities**
-            * Windows Application Software Development 
-            * Technologies Used: C#(.NET), WPF, Oracle(PL/SQL)
-        * **Secondary Responsibilities**
-            * Web-based EMR Maintenance and Development 
-            * Technologies Used: C#(.NET), Java, Oracle(PL/SQL), JavaScript, HTML, CSS
+* **💻 EZCareTech - SW Developer (June 2024 - ing)**    
+    * **First Department(Web Solution Maintenance and Development) (June 2024 – Dec 2024)**
+        * Web-based EMR Maintenance and Development 
+        * Technologies Used: C#(asp.NET), Java(spring), Oracle(PL/SQL), JavaScript, HTML, CSS
+    * **Seconed Department(Solution Development) (Jan 2025 – ing) - (Present)**
+        * Windows Application Software Development 
+        * Technologies Used: C#(.NET), WPF, Oracle(PL/SQL)
+            
    <!-- * **Secound Department()**   
         * **Second Primary Responsibilities**
             * Windows-Based EMR Development -->
-* **🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (2023.3 ~ 2025.02(~ing))**
+* **🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (Mar 2023 - Feb 2025(~ing))**
 * **📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 교육 운영진**
-    * **LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (2023.3 ~ 2024.12(~ing))**
+    * **LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (Mar 2023 ~ Dec 2024)**
     * **Java, Springboot3 , Springboot2** 
 * **📖 2023년 데이터 청년 캠퍼스- KDATA "Data youth campus" (2023.07~2023.08)**
 * **💻 선비북스 합류 - Join Seonbi Books (ULAB) (22.5~23.2)**
     * **Eub(HTML,CSS,JS), Apk(java), Web홍보홈페이지개발 및 유지보수(Springboot2)** 
-* **💻 한국출판문화산업진흥원 협약 프로젝트 진행 (제작 및 컨설팅) - KPIPA Project Consulting and Production (2021.9~2021.11)**
+* **💻 한국출판문화산업진흥원 협약 프로젝트 진행 (제작 및 컨설팅) - KPIPA Project Consulting and Production (Sep 2021 - Nov 2021)**
     * **Apk(Java)**
-* **💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (2021.9~2022.5)**
+* **💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (Sep 2021 - May 2022)**
     * **EUB(HTML,CSS,JS) & APK & Web**
     * **Completed over 100 tasks**
-* **🎓 전문대학 졸업 -Graduated from a junior college - Major : Electronics (2018.3~2020.02)**
-
+* **🎓 전문대학 졸업  -Graduated from a junior college  (Mar 2018~ Feb 2020)**
+    * 전공 : 전자과 - Major : Electronics
   
 
 
