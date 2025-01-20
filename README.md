@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/rudxofj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/"></a>
   <a href="mailto:kmam147@gmail.com"><img src="https://img.shields.io/badge/kmam147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## ✨ Profile
+## ✨ Profile (From present to past)
 * **💻 EZCareTech - SW Developer (June 2024 - ing)**    
     * **First Department(Web Solution Maintenance and Development) (June 2024 – Dec 2024)**
         * Web-based EMR Maintenance and Development 
@@ -50,13 +50,14 @@
    <!-- * **Secound Department()**   
         * **Second Primary Responsibilities**
             * Windows-Based EMR Development -->
-* **🎓 을지대학교 의료IT학과 재학 중- Eulji University- Major : Medical IT (Mar 2023 - Feb 2025(~ing))**
+* **🎓 을지대학교 의료IT학과 졸업 예정 - Eulji University- Major : Medical IT (Mar 2023 - Feb 2025(~ing))**
 * **📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 교육 운영진**
-    * **LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (Mar 2023 ~ Dec 2024)**
+    * **LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (Mar 2023 - Dec 2024)**
     * **Java, Springboot3 , Springboot2** 
-* **📖 2023년 데이터 청년 캠퍼스- KDATA "Data youth campus" (2023.07~2023.08)**
-* **💻 선비북스 합류 - Join Seonbi Books (ULAB) (22.5~23.2)**
-    * **Eub(HTML,CSS,JS), Apk(java), Web홍보홈페이지개발 및 유지보수(Springboot2)** 
+* **📖 2023년 데이터 청년 캠퍼스- KDATA "Data youth campus" (July 2023 - Aug 2023)**
+* **💻 선비북스(Seonbi Books) - Developer (May 2022 - Feb 2023)**
+    * **E-Book : Eub(HTML,CSS,JS), APK(Java)**
+    * **Web : 홈페이지 개발 및 유지보수 - Web development and maintenance (Springboot2)** 
 * **💻 한국출판문화산업진흥원 협약 프로젝트 진행 (제작 및 컨설팅) - KPIPA Project Consulting and Production (Sep 2021 - Nov 2021)**
     * **Apk(Java)**
 * **💻 전자책 전문업체 창업 - DohiStudio(E-Book Specialist) Start-up (Sep 2021 - May 2022)**
