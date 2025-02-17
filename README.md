@@ -50,7 +50,9 @@
    <!-- * **Secound Department()**   
         * **Second Primary Responsibilities**
             * Windows-Based EMR Development -->
-* **🎓 을지대학교 의료IT학과 졸업 예정 - Eulji University- Major : Medical IT (Mar 2023 - Feb 2025(~ing))**
+* **🎓 을지대학교 의료IT학과 졸업 - Eulji University- Major : Medical IT (Mar 2023 - Feb 2025)**
+    * 석차(Graduation rank) 1/52
+    * 학점(GPA) 4.43/4.5  
 * **📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 교육 운영진**
     * **LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (Mar 2023 - Dec 2024)**
     * **Java, Springboot3 , Springboot2** 
@@ -65,6 +67,7 @@
     * **Completed over 100 tasks**
 * **🎓 전문대학 졸업  -Graduated from a junior college  (Mar 2018~ Feb 2020)**
     * 전공 : 전자과 - Major : Electronics
+    * 학점(GPA) 4.43/4.5 
   
 
 
