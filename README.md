@@ -54,13 +54,9 @@
     * **Seconed Department(Solution Development) (Jan 2025 – ing) - (Present)**
         * Windows Application Software Development 
         * Technologies Used: C#(.NET), WPF, Oracle(PL/SQL)
-            
-   <!-- * **Secound Department()**   
-        * **Second Primary Responsibilities**
-            * Windows-Based EMR Development -->
 * **🎓 을지대학교 의료IT학과 졸업 - Eulji University- Major : Medical IT (Mar 2023 - Feb 2025)**
     * 석차(Graduation rank) 1/52
-    * 학점(GPA) 4.43/4.5  
+    * 학점(GPA) 4.44/4.5  
 * **📖 멋쟁이사자처럼(을지대) BE파트 11기, 12기 교육 운영진**
     * **LikeLion_Eulji(IT Club) BE Part 11th Member, 12th BE Training Manager (Mar 2023 - Dec 2024)**
     * **Java, Springboot3 , Springboot2** 
