@@ -6,26 +6,34 @@
 ## Tech Stack
 
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/"></a>
-  <a><img src="https://img.shields.io/badge/Spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/Spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white/"></a>
  
-  <a><img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white/"></a>
-  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/"></a>
-  <a><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white/"></a>
 
 ## 🛠IDE/Tool🛠
 
-<a><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white/"></a>
 <a><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/visual_studio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white/"></a>
 
 ## DBMS
+
 <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/"></a>
 <a><img src="https://img.shields.io/badge/H2-00000F?style=for-the-badge&logo=h2l&logoColor=white/"></a>
+
 <a><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=&logoColor=white/"></a>
+
 ## Server
 
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/"></a>
 
+## tech
+
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white/"></a>
 
 ## Studing
 
